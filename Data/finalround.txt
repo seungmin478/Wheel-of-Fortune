@@ -1,1 +1,1 @@
-Now begins the start of the final round! Goodluck!!
+Now begins the start of the final round for {name} who has $ {bank} Goodluck!! 
